@@ -1,0 +1,14 @@
+#box_1{
+    height: 100px;
+    width: 200px;
+    background-color: green;
+    font-size: 10px;
+}
+#box_2{
+    height: 50px;
+    width: 40%;
+    background-color: yellow;
+    /* width: 50px; */
+    margin-left: 10%;
+    font-size: 2em; /*2times of parents font size*/
+}

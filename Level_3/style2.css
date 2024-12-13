@@ -1,0 +1,17 @@
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    /* margin: 2px; */
+    display: inline-block;
+    /* color: white; */
+}
+#box-1{
+    background-color: darkorange;
+    position: static;
+    /* top: 20px; */
+    background-image: url(image.jpg);
+    background-size: contain;
+}

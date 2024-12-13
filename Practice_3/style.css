@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.nav{
+    height: 60px;
+    background-color: black;
+}
+.logo{
+    color: orange;
+    font-size: 25px;
+    /* padding-left: 0px; */
+}
+button{
+    background-color: chocolate;
+    padding: 5px;
+    font-size: 10px;
+    cursor: pointer;
+}
+a{
+    padding-right: 200px;
+    cursor: pointer;
+}
+/* input{
+    margin-left: 200px;
+} */

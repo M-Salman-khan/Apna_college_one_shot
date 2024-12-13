@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: rgb(37, 36, 36); */
+    /* color: antiquewhite ; */
+    font-family: "Segoe UI", Tahoma, sans-serif;
+}
+#footer{
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+    right: 0;
+    top: 0;
+    color: white;
+}
